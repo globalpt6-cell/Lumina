@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Lumina Literacy",
+  "description": "An empowering literacy suite designed specifically for adults to improve their writing, spelling, and reading skills through AI-guided assistance and supportive feedback.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
